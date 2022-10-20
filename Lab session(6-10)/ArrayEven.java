@@ -1,3 +1,13 @@
+/*
+  Question - WAP to enter even number in array and print in ascending order.
+  Name - Gaurav kamble.
+  Date - 14/10/2022.
+ */
+
+
+
+
+
 package javapractical;
 
 

@@ -1,5 +1,5 @@
 /*
-  Question - WAP to enter even number in array and print in ascending order.
+  Question - Array Ascending Descending Order..
   Name - Gaurav Kamble.
   Date - 14/10/2022.
  */
